@@ -1,4 +1,4 @@
-# Приложение для конструирования калькулятора
+# Приложение для просмотра пользователей с Github
 
 ![](https://shields.io/badge/-HTML-orange)
 ![](https://shields.io/badge/-TailwindCSS-blue)
